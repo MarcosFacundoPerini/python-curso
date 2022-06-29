@@ -12,11 +12,4 @@ print('The second sentence', end='. ')
 print('The last sentence.')
 print('hello', end='\n')
 print('ok')
-sdf
-sadf
-sadf
-asdf
-sad
-fsad
-fas
-df
+
